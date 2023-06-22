@@ -29,7 +29,7 @@ O conjunto de dados contém a abreviatura ESRB. O Entertainment Software Rating 
 
 — As classificações médias de usuários para os gêneros Action (ação) e Sports (esportes) são diferentes.
 
-**Conclusão Geral**
+**Conclusão**
 
 Dentre tudo o que foi analisado, podemos ver alguns padrões de sucesso em jogos. Padrões como ser do gênero de ação, esporte ou tiro no NA e EU, sobre a classificação, prefira E ou Mature e devem ser lançados nas plataformas mais novas como PS4 e XboxOne que são as que mais vendem. Porém ficar de olho nas plataformas PC que esta a muito tempo viva no mercado, wiiU que pode lançar uma nova caso 'morra', e 3DS que por mais que não vende muito, continua viva.
 
