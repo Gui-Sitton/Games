@@ -1,5 +1,5 @@
 # Games
-Sou aluno da Practicum no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o quinto projeto desenvolvido.
+Sou aluno da TripleTen no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o quinto projeto desenvolvido.
 
 Você trabalha para a loja online Ice, que vende videogames no mundo todo. As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas. Você precisa identificar padrões que determinam se um jogo tem sucesso ou não. Isso permitirá que você identifique potenciais grandes vencedores e planeje campanhas publicitárias.
 
