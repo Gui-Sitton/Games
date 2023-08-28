@@ -1,40 +1,40 @@
 # Games
-Sou aluno da TripleTen no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o quinto projeto desenvolvido.
 
-Neste projeto analisei para a loja online Ice, que vende videogames no mundo todo. As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas. Identifiquei padrões que determinam se um jogo tem sucesso ou não. Isso permitiu que identificasse potenciais grandes vencedores e planeje campanhas publicitárias.
 
-Na sua frente estão dados que remontam a 2016. Vamos imaginar que estamos em dezembro de 2016 e planejamos uma campanha para 2017.
+In this project I analyzed the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation) and historical data on game sales are available from open sources. I identified patterns that determine whether a game is successful or not. This has allowed me to identify potential big winners and plan advertising campaigns.
 
-O conjunto de dados contém a abreviatura ESRB. O Entertainment Software Rating Board avalia o conteúdo de um jogo e atribui uma classificação etária, como Adolescente ou Maduro.
+In front of you is data going back to 2016. Let's imagine it's December 2016 and we're planning a campaign for 2017.
 
-**Descrição de dados**
+The data set contains the abbreviation ESRB. The Entertainment Software Rating Board evaluates the content of a game and assigns an age rating, such as Teen or Mature.
 
-* Name (nome)
-* Platform (plataforma)
-* Year_of_Release (Ano de lançamento)
-* Genre(gênero)
-* NA_sales (vendas norte-americanas em milhões de USD)
-* EU_sales (vendas na Europa em milhões de USD)
-* JP_sales (vendas no Japão em milhões de USD)
-* Other_sales (vendas em outros países em em milhões de USD)
-* Critic_Score - (Pontuação crítica) (máximo de 100)
-* User_Score - (Pontuação do usuário) (máximo de 10)
-* Classificação (ESRB)
+**Data description**
 
-**Teste as seguintes hipóteses:**
+* Name
+* Platform
+* Year_of_Release
+* Genre
+* NA_sales (North American sales in millions of USD)
+* EU_sales (European sales in millions of USD)
+* JP_sales (sales in Japan in millions of USD)
+* Other_sales (sales in other countries in millions of USD)
+* Critic_Score - (maximum of 100)
+* User_Score (maximum of 10)
+* Rating (ESRB)
 
-— As classificações médias dos usuários das plataformas Xbox One e PC são as mesmas.
+**Test the following hypotheses**
 
-— As classificações médias de usuários para os gêneros Action (ação) e Sports (esportes) são diferentes.
+- The average user ratings for the Xbox One and PC platforms are the same.
 
-**Conclusão**
+- The average user ratings for the Action and Sports genres are different.
 
-Dentre tudo o que foi analisado, podemos ver alguns padrões de sucesso em jogos. Padrões como ser do gênero de ação, esporte ou tiro no NA e EU, sobre a classificação, prefira E ou Mature e devem ser lançados nas plataformas mais novas como PS4 e XboxOne que são as que mais vendem. Porém ficar de olho nas plataformas PC que está a muito tempo viva no mercado, wiiU que pode lançar uma nova caso 'morra', e 3DS que por mais que não vende muito, continua viva.
+**Conclusion**
 
-No Japão a história é diferente, lá você deve ficar de olho em jogos com a classificação E ou T e principalmente no gênero de role-playing seguido por action e platform, dentre as plataformas vivas você deve priorizar 3DS, wiiU, PS4, XboxOne e Pc nessa ordem.
+From everything that has been analyzed, we can see some patterns of success in games. Patterns such as being of the action, sports or shooter genre in NA and EU, regarding the rating, prefer E or Mature and should be released on the newer platforms such as PS4 and XboxOne which are the ones that sell the most. But keep an eye on the PC platforms, which have been alive on the market for a long time, the WiiU, which could launch a new one if it dies, and the 3DS, which doesn't sell much but is still alive.
 
-Preferir sempre playstation do que Xbox em qualquer grupo pois vende mais.
+In Japan it's a different story, there you should keep an eye out for games with an E or T rating and mainly in the role-playing genre followed by action and platform, among the live platforms you should prioritize 3DS, wiiU, PS4, XboxOne and Pc in that order.
 
-Ficar de olho nas plataformas PS4 XboxOne wiiU e 3ds quando lancarem novas plataformas pois nos primeiros anos normalmente aumentam as vendas de jogos.
+Always prefer PlayStation to Xbox in any group as it sells more.
 
-Resumindo um jogo no EU ou no NA de sucesso seria um jogo de PS4 de Ação e E na classificação. No Japão um jogo de Role-Playing de classificação E na plataforma 3DS.
+Keep an eye on the PS4 XboxOne wiiU and 3ds platforms when they launch new platforms because in the first few years they usually increase game sales.
+
+In short, a successful game in the US or NA would be a PS4 Action game and an E rating. In Japan, an E-rated Role-Playing game on the 3DS platform.
